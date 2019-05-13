@@ -1,0 +1,19 @@
+			.head{
+				background-color: #E58172;
+			}
+			.content{
+				margin: 0 auto;
+				width: 40%;
+			}
+			.u1{
+				margin-top: 50px;
+				margin-bottom: 50px;
+				margin-left: 25%;
+			}
+			.u1 li{
+				margin-top: 15px;
+			}
+			.u1 a{
+				margin-left: 20px;
+				color: cornflowerblue;
+			}

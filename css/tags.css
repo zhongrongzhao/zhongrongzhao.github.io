@@ -1,0 +1,31 @@
+			.head{
+				background-color: #B64F52;
+			}
+			.content{
+				margin: 0 auto;
+				width: 50%;
+				margin-bottom: 50px;
+			}
+			.c1{
+				margin-top: 50px;
+			}
+			.title{
+				font-family: "微软雅黑";
+				font-size: 25px;
+			}
+			.c1 ol{
+				margin-left: 40px;
+				margin-top: 15px;
+			}
+			.c1 ol li{
+				margin-top: 5px;
+			}
+			.c2{
+				margin-top: 50px;
+			}
+			.items{
+				margin-top: 15px;
+			}
+			.content a{
+				color: cornflowerblue;
+			}
